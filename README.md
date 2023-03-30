@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FigureKim%20render&animation=fadeIn&fontAlign=80&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FigureKim%20&render&animation=fadeIn&fontAlign=80&fontSize=70)
 <!--
 **figurekim317/figurekim317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
