@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=3000&pause=3&color=0C2EF78D&center=true&multiline=true&width=1000&height=200&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you:))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=3000&pause=3&color=0C2EF78D&center=true&multiline=true&width=1000&height=200&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!](https://git.io/typing-svg)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
