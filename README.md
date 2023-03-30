@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20figureKim's%20Github%20👋&animation=twinkling&fontSize=35&fontAlignY=40)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=30&duration=3000&pause=3&color=0C2EF78D&center=true&multiline=true&width=500&height=100&lines=Hi+there!+I'm+figure.;Nice+to+meet+you%3A))](https://git.io/typing-svg)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
