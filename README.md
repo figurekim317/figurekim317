@@ -22,6 +22,19 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+ 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/YourUsername/YourUsername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&theme=radical" />
+</a>
+<a href="https://github.com/YourUsername/YourUsername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&line_height=27" alt="YourUsername's GitHub Stats" />
+</a>
+ 
  ## 🤝🏻 Connect with Me
 - [Your Portfolio](Your Portfolio Link)
 - [Your LinkedIn](Your LinkedIn Link)
