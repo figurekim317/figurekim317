@@ -19,11 +19,8 @@
    <br/>
    <br/>
  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=figurekim317&color=dark)](https://velog.io/@figurekim317)
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical)
