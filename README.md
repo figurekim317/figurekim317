@@ -20,10 +20,10 @@
    <br/>
  
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
-[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyokonight)](https://github.com/figurekim317/github-readme-activity-graph)
 
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
+[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyokonight)](https://github.com/figurekim317/github-readme-activity-graph)
 
 
 
