@@ -1,5 +1,5 @@
 ### Hi there 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!👋%20&render&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250&section=header&text=Welcome to figureKim's Github👋%20&render&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70)
 
 
 <!--
