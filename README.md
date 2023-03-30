@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20figureKim's%20Github%20👋&animation=twinkling&fontSize=35&fontAlignY=40)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/figurekim317/github-readme-stats)
 <!--
 **figurekim317/figurekim317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
