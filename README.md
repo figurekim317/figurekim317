@@ -20,21 +20,11 @@
    <br/>
  
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
+[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyokonight)](https://github.com/figurekim317/github-readme-activity-graph)
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
 
-[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyokonight)](https://github.com/figurekim317/github-readme-activity-graph)
 
 <div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
-
-
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
