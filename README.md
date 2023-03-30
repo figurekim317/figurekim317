@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![Figurekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&hide=stars,contribs&count_private=true&show_icons=true&&theme=tokyonight&border_radius=7.5$card_width=200)](https://github.com/figurekim317/github-readme-stats)
+[![Figurekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&hide=stars,contribs&count_private=true&show_icons=true&&theme=tokyonight&border_radius=1.5$card_width=200)](https://github.com/figurekim317/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
