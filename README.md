@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=3000&pause=3&color=0CA3F7EE&center=true&multiline=true&width=1000&height=200&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
 <div align="center"> 
-
- <br/>
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -16,7 +14,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-   <br/>
    <br/>
  
 <br/>
