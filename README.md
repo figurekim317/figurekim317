@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Jongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&bg_color=00000000)
+![Jongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyo-night)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
 
