@@ -26,6 +26,10 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+- Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+- JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Advanced-green)
+- ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+
  
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/YourUsername/YourUsername">
@@ -38,5 +42,8 @@
  ## 🤝🏻 Connect with Me
 - [Your Portfolio](Your Portfolio Link)
 - [Your LinkedIn](Your LinkedIn Link)
+ ## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)](
  
 </div>
