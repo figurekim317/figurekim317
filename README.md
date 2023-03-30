@@ -2,9 +2,9 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffigure317&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Figurekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
+![figurekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
 
-[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyoko-night)](https://github.com/figurekim317/github-readme-activity-graph)
+[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyokonight)](https://github.com/figurekim317/github-readme-activity-graph)
 
 <!--
 **figurekim317/figurekim317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
