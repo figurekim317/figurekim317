@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)
 
+[![Figurekim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tyoko-night)](https://github.com/figurekim317/github-readme-activity-graph)
+
 <!--
 **figurekim317/figurekim317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
