@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=tokyonight&height=200&layout=compact" />
 </a>
  
-[![Figurekim317's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=500)](https://github.com/figurekim317/github-readme-activity-graph)
+[![Figurekim317's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=400)](https://github.com/figurekim317/github-readme-activity-graph)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
