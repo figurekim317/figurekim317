@@ -35,10 +35,10 @@
  
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/YourUsername/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=tokyonight" />
 </a>
 <a href="https://github.com/YourUsername/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&line_height=27" alt="YourUsername's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical&line_height=27" alt="Figurekim317's GitHub Stats" />
 </a>
  
 ## 🤝 Connect with me
