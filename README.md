@@ -40,7 +40,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" width="50%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff00" height="200" width="40%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff00" height="200" width="38%" />
 </div>
 
 
