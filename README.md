@@ -42,6 +42,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
 </a>
 
+<a href="https://github.com/figurekim317">
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=200&width=400" title="" />
+</a>
+
+
 
 <div align="center">
   <h2> 🤝 Connect with me</h2>
