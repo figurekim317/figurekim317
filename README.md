@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)]
- 
+  <a href="https://www.linkedin.com/in/johndoe/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
+  <a href="https://github.com/johndoe"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
 </div>
+
