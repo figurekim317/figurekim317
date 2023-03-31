@@ -1,13 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-## 🔧 Technologies & Tools
-
-
-<div align="center"> 
- <br/>
-
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -52,15 +44,6 @@ ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
-Java ![Skill Level](https://img.shields.io/badge/Skill-Expert-blue)
-JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-Spring ![Skill Level](https://img.shields.io/badge/Skill-Expert-blue)
-HTML/CSS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-MySQL/Oracle ![Skill Level](https://img.shields.io/badge/Skill-Expert-blue)
-Amazon AWS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-Eclipse/VSCode/GitHub ![Skill Level](https://img.shields.io/badge/Skill-Expert-blue)
-
  
 ## 🔧 Technologies & Tools
 
@@ -70,6 +53,8 @@ Eclipse/VSCode/GitHub ![Skill Level](https://img.shields.io/badge/Skill-Expert-b
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <br>
+
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
@@ -78,16 +63,7 @@ Eclipse/VSCode/GitHub ![Skill Level](https://img.shields.io/badge/Skill-Expert-b
    <br/>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-
-Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-C ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-C++ ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-Machine Learning ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-VSCode/GitHub/AWS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-Google Coral ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-yellow)
-
- 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) 
  
  
 ## &#x1f4c8; GitHub Stats
