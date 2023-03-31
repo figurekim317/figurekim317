@@ -39,19 +39,9 @@
 </div>
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=FFFFFF)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight&bg_color=FFFFFF)
-
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff00" height="200" />
 </div>
-
-
-
 
 
   
