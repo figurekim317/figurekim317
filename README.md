@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-- Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
-- JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Advanced-green)
-- ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+
 
 <div align="center"> 
  <br/>
@@ -27,7 +22,15 @@
    <br/>
  
 <br/>
-
+ 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+- Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+- JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Advanced-green)
+- ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+ 
+ 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/figurekim317">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
