@@ -2,6 +2,8 @@
 
 <div align="center">
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
+   [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
 </div>
 
 
