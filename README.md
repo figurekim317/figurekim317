@@ -41,11 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&line_height=27" alt="YourUsername's GitHub Stats" />
 </a>
  
- ## 🤝🏻 Connect with Me
-- [Your Portfolio](Your Portfolio Link)
-- [Your LinkedIn](Your LinkedIn Link)
- ## Connect with me
+## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)](
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)]
  
 </div>
