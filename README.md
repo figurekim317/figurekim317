@@ -43,6 +43,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff00" height="200" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical&bg_color=ffffff" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff" height="180em" />
+</div>
+
+
 
   
   <a href="https://github.com/figurekim317">
