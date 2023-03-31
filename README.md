@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00&text_color=2f80ed)" alt="figurekim317's GitHub stats" height="200" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&bg_color=ffffff00" height="200" />
 </div>
 
@@ -48,6 +48,9 @@
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical&text_color=2f80ed)
+
 
 
 <div align="center">
