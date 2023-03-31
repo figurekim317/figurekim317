@@ -4,11 +4,6 @@
   <h2>🔧 Technologies & Tools</h2>
 </div>
 
-<div align="center">
-  <h2><span style="font-family: Arial, sans-serif;">🔧 Technologies & Tools</span></h2>
-</div>
-
-
 <div align="center"> 
   <br/>
 
