@@ -51,17 +51,10 @@
   <a href="https://github.com/figurekim317">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
   </a>
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-  </a>
 </div>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=figurekim317&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
-
-  
-  <img src="https://raw.githubusercontent.com/figurekim317/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=light&line_height=27&height=200&width=50%" />
 
 
 
