@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
+<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
 
