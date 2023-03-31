@@ -48,8 +48,11 @@
 </div>
 
 
- 
-## 🤝 Connect with me
+<div align="center">
+  <h2> 🤝 Connect with me</h2>
+</div>
+
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
 [![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)]
  
