@@ -38,11 +38,11 @@
 
 <div align="center">
 
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=light&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
-  </a>
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
+<a href="https://github.com/figurekim317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=light&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
+</a>
+<a href="https://github.com/figurekim317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
 </a>
   
 <a href="https://github.com/figurekim317">
