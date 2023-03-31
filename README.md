@@ -17,6 +17,13 @@
    <br/>
  
 <br/>
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/figurekim317/figurekim317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&line_height=27&height=200" alt="Figurekim317's GitHub Stats" />
+</a>
+ <a href="https://github.com/figurekim317/figurekim317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=tokyonight&height=200&layout=compact" />
+</a>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,12 +41,7 @@
 
  
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/figurekim317/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=tokyonight&height=200&layout=compact" />
-</a>
-<a href="https://github.com/figurekim317/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&line_height=27&height=200" alt="Figurekim317's GitHub Stats" />
-</a>
+
  
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
