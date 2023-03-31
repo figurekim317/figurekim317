@@ -36,17 +36,6 @@
   <h2> &#x1f4c8; GitHub Stats</h2>
 </div>
 
-<div align="center">
-<a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=light&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
-</a>
-<a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
-</a>
-  
-<a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
