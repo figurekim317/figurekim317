@@ -20,17 +20,6 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&line_height=27&height=200" alt="Figurekim317's GitHub Stats" />
-</a>
- <a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=tokyonight&height=200&layout=compact" />
-</a>
- 
-[![Figurekim317's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=300)](https://github.com/figurekim317/github-readme-activity-graph)
- 
- 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/figurekim317">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
 </a>
 <a href="https://github.com/figurekim317">
@@ -38,7 +27,7 @@
 </a>
 
 <a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=50%" title=""/>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=300" title=""/>
 </a>
  
 
