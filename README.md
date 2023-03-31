@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=300" title=""/>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=tokyo-night&height=300&width=400" title=""/>
 </a>
  
 
