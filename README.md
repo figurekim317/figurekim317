@@ -47,6 +47,18 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/figurekim317">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=light&line_height=27&height=200&width=50%" alt="Figurekim317's GitHub Stats" />
+  </a>
+  <a href="https://github.com/figurekim317">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&hide=html,css&theme=light&height=200&layout=compact&width=50%" />
+  </a>
+  <a href="https://github.com/figurekim317">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
+  </a>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=radical)
 
 
@@ -64,11 +76,7 @@
   <a href="https://github.com/johndoe"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
 </div>
 
-<a href="https://opgc.me/#/users/dkssud8150" target="_blank"><img src="https://api.opgc.me/githubs/users/dkssud8150/tag/?theme=prism" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkssud8150)](https://solved.ac/dkssud8150)
-<!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dkssud8150&theme=white) -->
-</a>
-  
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
