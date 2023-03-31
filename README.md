@@ -77,12 +77,12 @@
 </a>
 
 <!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=figurekim317&theme=tokyonight)](https://git.io/streak-stats)
 -->
 
 <br />
 
-<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <br />
 <!--
