@@ -128,18 +128,6 @@ https://github.com/mazassumnida/mazassumnida#ruby-
 
 
 
-**I'm a night 🦉**
-
-```markdown
-
-🌞 Morning     7 commits  ▌░░░░░░░░░░░░░░░░░░░░░   2.5%
-🌆 Daytime    99 commits  ███████▎░░░░░░░░░░░░░  35.1%
-🌃 Evening    92 commits  ██████▊░░░░░░░░░░░░░░  32.6%
-🌙 Night      84 commits  ██████▎░░░░░░░░░░░░░░  29.8%
-
-```
-
-<br />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
 
