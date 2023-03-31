@@ -43,9 +43,8 @@
 </a>
   
 <a href="https://github.com/figurekim317">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&color=6994CDEE" title="" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&bg_color=white&height=300&width=400" title="" />
 </a>
-</div>
 
 
 
