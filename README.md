@@ -68,9 +68,12 @@
 </a>
 
 
-<div align="center">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
 
+<div align="center">
+  <a href="https://solved.ac/ggusg0317">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317" />
+  </a>
+</div>
 
 
 <div align="center">
