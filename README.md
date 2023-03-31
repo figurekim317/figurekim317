@@ -1,7 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+## 🔧 Technologies & Tools
 <div align="center"> 
  <br/>
-  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+- Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+- JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Advanced-green)
+- ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -31,13 +39,7 @@
 </a>
  
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-- Python ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
-- JavaScript ![Skill Level](https://img.shields.io/badge/Skill-Advanced-green)
-- ReactJS ![Skill Level](https://img.shields.io/badge/Skill-Intermediate-blue)
+
 
  
 ## &#x1f4c8; GitHub Stats
