@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
-
-<div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
-</div>
-
 <div align="center">
   <h2>🔧 Technologies & Tools</h2>
 </div>
@@ -53,6 +46,8 @@
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=300&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
 </a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317)](https://solved.ac/ggusg0317)
 
 
 
