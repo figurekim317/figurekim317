@@ -8,13 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-github-profile-3d-contrib-figurekim317
     steps:
       - uses: actions/checkout@v2
       - uses: figurekim317/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: $
-          USERNAME: $
+          GITHUB_TOKEN: ${{ secrets.MY_SECRET }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
