@@ -49,7 +49,7 @@
   </a>
 </div>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 profile-3d-contrib/profile-green-animate.svg
