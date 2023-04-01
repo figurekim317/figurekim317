@@ -49,30 +49,8 @@
   </a>
 </div>
 
-<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<br />
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
--->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!--
-profile-3d-contrib/profile-green-animate.svg
-profile-3d-contrib/profile-green.svg
-profile-3d-contrib/profile-season-animate.svg
-profile-3d-contrib/profile-season.svg
-profile-3d-contrib/profile-south-season-animate.svg
-profile-3d-contrib/profile-south-season.svg
-profile-3d-contrib/profile-night-view.svg
-profile-3d-contrib/profile-night-green.svg
-profile-3d-contrib/profile-night-rainbow.svg
-profile-3d-contrib/profile-gitblock.svg
--->
-  
-<br />
-<br />
 
 <div align="center">
   <a href="https://solved.ac/ggusg0317">
