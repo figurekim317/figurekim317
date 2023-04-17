@@ -59,15 +59,6 @@
 </div>
 
 
-<div align="center">
-  <h2> 🤝 Connect with me</h2>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jongwan-kim-019712251/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
-  <a href="https://github.com/figurekim317"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
-</div>
-
 
 ### Algorithm Note
 
@@ -84,9 +75,12 @@
 - [GAN_Implementation](https://github.com/jinhan814/GAN-implementation) : GAN Implementation using PyTorch.
 - [PyTorch-GAN-Study](https://github.com/jinhan814/PyTorch-GAN-Study) : GAN Study using PyTorch.
 
-## 🏆 Cards
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhan814)](https://solved.ac/jinhan814)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhan814)](https://github.com/jinhan814)
+<div align="center">
+  <h2> 🤝 Connect with me</h2>
+</div>
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jongwan-kim-019712251/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
+  <a href="https://github.com/figurekim317"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
+</div>
