@@ -61,7 +61,7 @@
 
 
 ### Model deployment
-- [Quantization](https://github.com/figurekim317/onnx-tool)
+- [Quantization](https://github.com/figurekim317/Quantization)
 - [Efficient VIT](https://github.com/figurekim317/efficientvit)
 - [ONNX](https://github.com/onnx/onnx)
 - [TensorRT_ex](https://github.com/figurekim317/TensorRT_ex)
