@@ -69,3 +69,24 @@
 </div>
 
 
+### Algorithm Note
+
+- [BOJ](https://github.com/jinhan814/BOJ) : BOJ solution code
+- [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout
+- [Algorithm Guide](https://github.com/jinhan814/algorithm-guide) : Algorithm Guide for problem solving
+- [Algorithm_Implementation](https://github.com/jinhan814/algorithms-implementation) : Algorithm implementation using cpp
+
+### Machine Learning Note
+
+- [NN_Implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
+- [PyTorch-MNIST](https://github.com/jinhan814/PyTorch-MNIST) : MNIST Dataset Learning Code using CNN.
+- [Sketch2Idol](https://github.com/jinhan814/Sketch2Idol) : Hand-Drawn Sketches to Face Images Project using GAN.
+- [GAN_Implementation](https://github.com/jinhan814/GAN-implementation) : GAN Implementation using PyTorch.
+- [PyTorch-GAN-Study](https://github.com/jinhan814/PyTorch-GAN-Study) : GAN Study using PyTorch.
+
+## 🏆 Cards
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhan814)](https://solved.ac/jinhan814)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhan814)](https://github.com/jinhan814)
+
+
