@@ -60,20 +60,38 @@
 
 
 
-### Algorithm Note
+### Model deployment
+- [Quantization](https://github.com/figurekim317/onnx-tool)
+- [Efficient VIT](https://github.com/figurekim317/efficientvit)
+- [ONNX](https://github.com/onnx/onnx)
+- [TensorRT_ex](https://github.com/figurekim317/TensorRT_ex)
+- [Tensorflow-onnx](https://github.com/figurekim317/tensorflow-onnx)
+- [Jetson](https://github.com/figurekim317/jetson-inference)
+- [Jetson_stats](https://github.com/figurekim317/jetson_stats)
+ 
+### Autonomy
+- [Autonomy](https://github.com/figurekim317/Autonomy)
+- [Perception](https://github.com/figurekim317/Perception-for-Self-driving)
+- [rslidar](https://github.com/figurekim317/rslidar_sdk)
+- [READ](https://github.com/figurekim317/READ)
+- [Autonomy Paper list](https://github.com/figurekim317/awesome-self-driving-car)
+- [Object detection paper](https://github.com/figurekim317/deep_learning_object_detection)
 
-- [BOJ](https://github.com/jinhan814/BOJ) : BOJ solution code
-- [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout
-- [Algorithm Guide](https://github.com/jinhan814/algorithm-guide) : Algorithm Guide for problem solving
-- [Algorithm_Implementation](https://github.com/jinhan814/algorithms-implementation) : Algorithm implementation using cpp
+### Segmentation
+- [Mask_RCNN](https://github.com/figurekim317/Mask_RCNN)
+- [Semantic segmentation](https://github.com/figurekim317/Segmentation)
+- [Instance segmentation](https://github.com/figurekim317/instance_seg)
+- [Diffusion Instance segmentation](https://github.com/figurekim317/DiffusionInst)
+- [Segmentation dataset generator](https://github.com/figurekim317/synthetic-segmentation-dataset-generator)
+- [DeepLab v3+](https://github.com/figurekim317/DeepLabV3Plus-Pytorch)
+- [Segmentation code list](https://github.com/figurekim317/awesome-semantic-segmentation)
+
+### Algorithm Note
+- [BOJ](https://github.com/figurekim317/BOJ)
 
 ### Machine Learning Note
-
-- [NN_Implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
-- [PyTorch-MNIST](https://github.com/jinhan814/PyTorch-MNIST) : MNIST Dataset Learning Code using CNN.
-- [Sketch2Idol](https://github.com/jinhan814/Sketch2Idol) : Hand-Drawn Sketches to Face Images Project using GAN.
-- [GAN_Implementation](https://github.com/jinhan814/GAN-implementation) : GAN Implementation using PyTorch.
-- [PyTorch-GAN-Study](https://github.com/jinhan814/PyTorch-GAN-Study) : GAN Study using PyTorch.
+- [ML education](https://github.com/figurekim317/ML-For-Beginners)
+- [Programmers](https://github.com/figurekim317/programmers_dev)
 
 
 <div align="center">
