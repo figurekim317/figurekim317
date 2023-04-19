@@ -41,10 +41,9 @@
   <h2> &#x1f4c8; GitHub Stats</h2>
 </div>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact(https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <div align="center">
   <img align="center" src="https://github-readme-stats-ashen-eta-87.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" width="50%" />
