@@ -41,7 +41,7 @@
   <h2> &#x1f4c8; GitHub Stats</h2>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
