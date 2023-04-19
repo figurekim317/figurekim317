@@ -41,18 +41,6 @@
   <h2> &#x1f4c8; GitHub Stats</h2>
 </div>
 
-<div style="display:flex; justify-content:center;">
-  <a href="https://github.com/figurekim317">
-    <img src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact" />
-  </a>
-</div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/figurekim317">
