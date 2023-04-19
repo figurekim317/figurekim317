@@ -44,6 +44,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figurekim317&layout=compact" alt="Top Langs">
+  </a>
+</p>
+
+
   
 <div align="center">
   <img align="center" src="https://github-readme-stats-ashen-eta-87.vercel.app/api?username=figurekim317&show_icons=true&theme=tokyonight&bg_color=ffffff00" alt="figurekim317's GitHub stats" height="200" width="50%" />
