@@ -67,7 +67,7 @@
 
 
 
-### Model deployment
+### Model Compression
 - [Quantization](https://github.com/figurekim317/Quantization)
 - [Efficient VIT](https://github.com/figurekim317/efficientvit)
 - [ONNX](https://github.com/onnx/onnx)
@@ -98,6 +98,8 @@
 
 ### Machine Learning Note
 - [ML education](https://github.com/figurekim317/ML-For-Beginners)
+
+### Dev Course
 - [Programmers](https://github.com/figurekim317/programmers_dev)
 
 
