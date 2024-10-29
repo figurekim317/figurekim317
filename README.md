@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Jongwan.;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Dohyeong.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>🔧 Technologies & Tools</h2>
