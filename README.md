@@ -108,6 +108,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jongwan-kim-019712251/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/figure317"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"/></a>
   <a href="https://github.com/figurekim317"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"/></a>
 </div>
