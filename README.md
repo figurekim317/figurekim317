@@ -51,12 +51,6 @@
   </a>
 </div>
 
-  
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=figurekim317&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=figurekim317's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold"/>
-  </a>
-</div>
-
 
 
 <div align="center">
