@@ -36,24 +36,27 @@
 
 </div>
  
- 
 <div align="center">
   <h2> &#x1f4c8; GitHub Stats</h2>
 </div>
 
-
 <div align="center">
-  <a href="https://github.com/figurekim317">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/figurekim317">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=figurekim317&show_icons=true&theme=transparent" />
+        </a>
+      </td>
+      <td>
+        <a href="https://solved.ac/ggusg0317">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-<div align="center">
-  <a href="https://solved.ac/ggusg0317">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggusg0317" />
-  </a>
-</div>
 
 ### About Me
 - **Current/Recent Roles**  
