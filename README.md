@@ -59,42 +59,55 @@
   </a>
 </div>
 
+### About Me
+- **Current/Recent Roles**  
+  - CTO at RGA Inc. (May 2023 – )  
+  - AI Perception Engineer at Neubility (Feb 2023 – Apr 2023)  
+  - Student Researcher at KIST (May 2022 – Aug 2022)  
+  - Researcher at CERN (Jul 2015 – Aug 2017)
 
+- **Education**  
+  - Integrated MS/PhD in Artificial Intelligence, **Seoul National University** (Mar 2018 – Feb 2023)  
+    - GPA: 3.9/4.3  
+  - BSE in Electronic and Electrical Engineering, **Sungkyunkwan University** (Mar 2008 – Feb 2014)  
+    - GPA: 4.24/4.5 (Summa Cum Laude, top 0.16%)  
+  - Digital Training Autonomous Driving Dev Course (Planning & Control), (Mar 2023 – Sep 2023)
 
-### Model Compression
-- [Quantization](https://github.com/figurekim317/Quantization)
-- [Efficient VIT](https://github.com/figurekim317/efficientvit)
-- [ONNX](https://github.com/onnx/onnx)
-- [TensorRT_ex](https://github.com/figurekim317/TensorRT_ex)
-- [Tensorflow-onnx](https://github.com/figurekim317/tensorflow-onnx)
-- [Jetson](https://github.com/figurekim317/jetson-inference)
-- [Jetson_stats](https://github.com/figurekim317/jetson_stats)
- 
-### Autonomy
-- [Autonomy](https://github.com/figurekim317/Autonomy)
-- [Perception](https://github.com/figurekim317/Perception-for-Self-driving)
-- [rslidar](https://github.com/figurekim317/rslidar_sdk)
-- [READ](https://github.com/figurekim317/READ)
-- [Autonomy Paper list](https://github.com/figurekim317/awesome-self-driving-car)
-- [Object detection paper](https://github.com/figurekim317/deep_learning_object_detection)
+### Experience
 
-### Segmentation
-- [Mask_RCNN](https://github.com/figurekim317/Mask_RCNN)
-- [Semantic segmentation](https://github.com/figurekim317/Segmentation)
-- [Instance segmentation](https://github.com/figurekim317/instance_seg)
-- [Diffusion Instance segmentation](https://github.com/figurekim317/DiffusionInst)
-- [Segmentation dataset generator](https://github.com/figurekim317/synthetic-segmentation-dataset-generator)
-- [DeepLab v3+](https://github.com/figurekim317/DeepLabV3Plus-Pytorch)
-- [Segmentation code list](https://github.com/figurekim317/awesome-semantic-segmentation)
+#### RGA Inc. (CTO) | May 2023 – 
+- **Facial Expression Recognition Model Development** (Jul 2024 – )  
+- **LiDAR-based Visual SLAM for 3D Mapping** (Jul 2024 – Oct 2024)  
+- **Transformer-based Quadruped Proof of Concept (POC) and Toy Model** (Jun 2024 – Aug 2024)  
+- **Video-based Agile Robotic Locomotion via Animal Imitation** (Mar 2024 – )
+- **Monocular Depth Estimation** (Mar 2024 – Aug 2024)
+- **Depth Upsampling and Refinement** (May 2024 – Aug 2024)
+- **Object Detection Model with On-Device Compression** (Jan 2024 – Apr 2024)
+- **Object Tracking Model Development**
+- **Model Optimization (Quantization, ONNX, TensorRT)**  
 
-### Algorithm Note
-- [BOJ](https://github.com/figurekim317/BOJ)
+#### Neubility (AI Perception Engineer) | Feb 2023 – Apr 2023
+- **Real-Time Traffic Light Detection and Color Recognition** (Mar 2023 – Apr 2023)
+- **Computation Optimization of Object Detection** (Mar 2023 – Apr 2023)
 
-### Machine Learning Note
-- [ML education](https://github.com/figurekim317/ML-For-Beginners)
+#### Korea Institute of Science and Technology (KIST) | May 2022 – Aug 2022
+- **High Density AI Technology (CMOS + Vertical Stacked Devices)**
 
-### Dev Course
-- [Programmers](https://github.com/figurekim317/programmers_dev)
+#### European Organization for Nuclear Research (CERN) | Jul 2015 – Aug 2017
+- **Researcher**  
+  - Contributed to large-scale scientific experiments and data analysis  
+
+### Awards and Honors
+- **1st Place**, CVPR AIS Challenge on Depth Compression, Upsampling, and Refinement  
+- **3rd Place**, CVPR AIS 3rd Monocular Depth Estimation Challenge  
+- **2022 Google Conference Sponsorship**  
+- **2022 Min Gye-Sik Scholarship Fund**  
+- **2021 Summa Cum Laude**, Sungkyunkwan University  
+- **Academic Excellence Award**, Sungkyunkwan University (2014)  
+- **Grand Prize**, Sungkyunkwan University Graduation Work Contest (2013)  
+- **Grand Prize**, GCTI Research Activity in Korea (2013)  
+- **Bronze Prize**, Doosan Heavy Industries and Construction Research Contest (2012)  
+- **Bronze Prize**, Samsung Display Research Contest (2012)
 
 
 <div align="center">
