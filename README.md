@@ -59,8 +59,9 @@
 
 
 ### About Me
-- **Current/Recent Roles**  
-  - CTO at RGA Inc. (May 2023 – )  
+- **Current/Recent Roles**
+  - CTO at OnlivePlus (Mar 2025 - )
+  - CTO at RGA Inc. (May 2023 – Oct 2024)  
   - AI Perception Engineer at Neubility (Feb 2023 – Apr 2023)  
   - Student Researcher at KIST (May 2022 – Aug 2022)  
   - Researcher at CERN (Jul 2015 – Aug 2017)
@@ -74,11 +75,11 @@
 
 ### Experience
 
-#### RGA Inc. (CTO) | May 2023 – 
-- **Facial Expression Recognition Model Development** (Jul 2024 – )  
+#### RGA Inc. (CTO) | May 2023 – Oct 2024
+- **Facial Expression Recognition Model Development** (Jul 2024 – Oct 2024)  
 - **LiDAR-based Visual SLAM for 3D Mapping** (Jul 2024 – Oct 2024)  
 - **Transformer-based Quadruped Proof of Concept (POC) and Toy Model** (Jun 2024 – Aug 2024)  
-- **Video-based Agile Robotic Locomotion via Animal Imitation** (Mar 2024 – )
+- **Video-based Agile Robotic Locomotion via Animal Imitation** (Mar 2024 – Oct 2024)
 - **Monocular Depth Estimation** (Mar 2024 – Aug 2024)
 - **Depth Upsampling and Refinement** (May 2024 – Aug 2024)
 - **Object Detection Model with On-Device Compression** (Jan 2024 – Apr 2024)
